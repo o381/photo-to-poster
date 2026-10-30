@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="#examples">Examples</a> ·
   <a href="#the-recipe">The recipe</a> ·
   <a href="#use-the-skill">Use the Skill</a> ·
   <a href="#the-photograph-is-protected">Photo protection</a> ·
@@ -18,6 +19,29 @@
 </p>
 
 <br>
+
+<h3 align="center"><a name="examples"></a>Examples</h3>
+
+<p align="center"><em>Six posters, six different recipes — no template repeated.</em></p>
+
+<p align="center">
+  <img src="examples/01-penang-airport.jpg" width="32%" alt="Airplane-window poster: a giant serif title layered over the cabin wall, the terminal seen through the porthole">
+  <img src="examples/02-penang-260.jpg" width="32%" alt="Parking-structure poster: bold grotesque title split by a spot colour, the building's real painted number repeated oversized">
+  <img src="examples/03-travel-diary.jpg" width="32%" alt="Harbour poster: distressed oversized headline over a lifebuoy, torn-paper travel notes">
+</p>
+<p align="center">
+  <img src="examples/04-shadow-play.jpg" width="32%" alt="Night architecture poster: torn-paper collage with a stamp, a seal and handwritten notes around a lit window">
+  <img src="examples/05-macau-after-dark.jpg" width="32%" alt="Boutique-window poster: weathered foil title with film-strip and photo-print insets of details from the same photograph">
+  <img src="examples/06-wild-wires.jpg" width="32%" alt="Winter branches poster: a typographic monument cropped by the frame, split white against a sunset spot colour">
+</p>
+
+<p align="center"><sub>
+  The posters above are deliberately downscaled, lightly softened previews with no metadata — the original photographs are not part of this repository.<br>
+  Inside the Skill itself, every case is still described as generalised design logic, in words only.
+</sub></p>
+
+<br>
+
 
 <h3 align="center">A poster is a recipe, not a template</h3>
 
@@ -73,30 +97,6 @@ The Skill adapts to what the host can do:
 | **A — code + image tool** | The image tool generates only the design layer; code composites it over the original pixels and verifies them unchanged. |
 | **B — image model only** | One call with a fully specified prompt: format, palette, headline, ornament set. The Skill warns that the model may shift color slightly. |
 | **C — no image generation** | You receive the finished recipe and a ready-to-paste prompt. |
-
-<br>
-
-<h3 align="center"><a name="examples"></a>Examples</h3>
-
-<p align="center"><em>Six posters, six different recipes — no template repeated.</em></p>
-
-<p align="center">
-  <img src="examples/01-penang-airport.jpg" width="32%" alt="Airplane-window poster: a giant serif title layered over the cabin wall, the terminal seen through the porthole">
-  <img src="examples/02-penang-260.jpg" width="32%" alt="Parking-structure poster: bold grotesque title split by a spot colour, the building's real painted number repeated oversized">
-  <img src="examples/03-travel-diary.jpg" width="32%" alt="Harbour poster: distressed oversized headline over a lifebuoy, torn-paper travel notes">
-</p>
-<p align="center">
-  <img src="examples/04-shadow-play.jpg" width="32%" alt="Night architecture poster: torn-paper collage with a stamp, a seal and handwritten notes around a lit window">
-  <img src="examples/05-macau-after-dark.jpg" width="32%" alt="Boutique-window poster: weathered foil title with film-strip and photo-print insets of details from the same photograph">
-  <img src="examples/06-wild-wires.jpg" width="32%" alt="Winter branches poster: a typographic monument cropped by the frame, split white against a sunset spot colour">
-</p>
-
-<p align="center"><sub>
-  The posters above are deliberately downscaled, lightly softened previews with no metadata — the original photographs are not part of this repository.<br>
-  Inside the Skill itself, every case is still described as generalised design logic, in words only.
-</sub></p>
-
-<br>
 
 <h3 align="center">Repository layout</h3>
 
