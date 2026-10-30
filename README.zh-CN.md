@@ -75,11 +75,25 @@ Skill 会按宿主环境的能力分三档执行：
 
 <br>
 
-<h3 align="center">关于示例</h3>
+<h3 align="center">案例展示</h3>
 
-<p align="center"><em>这个仓库刻意不附带任何照片。</em></p>
+<p align="center"><em>六张海报，六份不同的配方——不重复同一个模板。</em></p>
 
-Skill 里的所有案例都只以文字形式写成通用化的设计逻辑，不包含任何人的图片、项目或工作记录。这个 Skill 就是为了让你拿自己的照片、在你自己的平台上使用。
+<p align="center">
+  <img src="examples/01-penang-airport.jpg" width="32%" alt="舷窗海报：巨型衬线标题覆在机舱壁上，透过舷窗看航站楼">
+  <img src="examples/02-penang-260.jpg" width="32%" alt="停车楼海报：粗黑标题被点缀色劈开，建筑墙上真实的号码被放大重现">
+  <img src="examples/03-travel-diary.jpg" width="32%" alt="海港海报：做旧的超大标题压在救生圈上，配撕纸旅行笔记">
+</p>
+<p align="center">
+  <img src="examples/04-shadow-play.jpg" width="32%" alt="夜间建筑海报：撕纸拼贴，邮戳、印章与手写笔记环绕一扇亮着的窗">
+  <img src="examples/05-macau-after-dark.jpg" width="32%" alt="橱窗海报：做旧烫金标题，配同图细节的胶片条与照片插图">
+  <img src="examples/06-wild-wires.jpg" width="32%" alt="冬日枝线海报：被画框裁切的字体纪念碑，白色与夕阳点缀色对劈">
+</p>
+
+<p align="center"><sub>
+  以上海报均为刻意降低分辨率、轻微柔化且不带任何元数据的预览图——原始照片不在本仓库中。<br>
+  Skill 本体内部的案例，仍然只以文字形式写成通用化的设计逻辑。
+</sub></p>
 
 <br>
 
@@ -92,6 +106,7 @@ photo-to-poster/
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
 ├── LICENSE                    ← MIT
+├── examples/                  ← 案例海报（低分辨率预览图）
 └── skills/
     └── photo-to-poster/
         └── SKILL.md           ← Skill 本体（英文）
