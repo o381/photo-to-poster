@@ -34,7 +34,7 @@
 </p>
 
 <p align="center"><sub>
-  以上海报均为刻意降低分辨率、轻微柔化且不带任何元数据的预览图——原始照片不在本仓库中。<br>
+  以上均为用本 Skill 做成的成品海报——每张只来自一张照片，每张一份独立的配方。<br>
   Skill 本体内部的案例，仍然只以文字形式写成通用化的设计逻辑。
 </sub></p>
 
@@ -105,7 +105,7 @@ photo-to-poster/
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
 ├── LICENSE                    ← MIT
-├── examples/                  ← 案例海报（低分辨率预览图）
+├── examples/                  ← 案例海报
 └── skills/
     └── photo-to-poster/
         └── SKILL.md           ← Skill 本体（英文）
