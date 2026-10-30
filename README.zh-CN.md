@@ -18,6 +18,29 @@
 
 <br>
 
+<h3 align="center">案例展示</h3>
+
+<p align="center"><em>六张海报，六份不同的配方——不重复同一个模板。</em></p>
+
+<p align="center">
+  <img src="examples/01-penang-airport.jpg" width="32%" alt="舷窗海报：巨型衬线标题覆在机舱壁上，透过舷窗看航站楼">
+  <img src="examples/02-penang-260.jpg" width="32%" alt="停车楼海报：粗黑标题被点缀色劈开，建筑墙上真实的号码被放大重现">
+  <img src="examples/03-travel-diary.jpg" width="32%" alt="海港海报：做旧的超大标题压在救生圈上，配撕纸旅行笔记">
+</p>
+<p align="center">
+  <img src="examples/04-shadow-play.jpg" width="32%" alt="夜间建筑海报：撕纸拼贴，邮戳、印章与手写笔记环绕一扇亮着的窗">
+  <img src="examples/05-macau-after-dark.jpg" width="32%" alt="橱窗海报：做旧烫金标题，配同图细节的胶片条与照片插图">
+  <img src="examples/06-wild-wires.jpg" width="32%" alt="冬日枝线海报：被画框裁切的字体纪念碑，白色与夕阳点缀色对劈">
+</p>
+
+<p align="center"><sub>
+  以上海报均为刻意降低分辨率、轻微柔化且不带任何元数据的预览图——原始照片不在本仓库中。<br>
+  Skill 本体内部的案例，仍然只以文字形式写成通用化的设计逻辑。
+</sub></p>
+
+<br>
+
+
 <h3 align="center"><a name="配方"></a>海报是一份配方，不是一个模板</h3>
 
 <p align="center"><em>每张照片都有自己的体裁、自己的字体动作、自己的装饰。</em></p>
@@ -72,30 +95,6 @@ Skill 会按宿主环境的能力分三档执行：
 | **A — 有代码执行 + 生图工具** | 生图只生成设计层；程序把设计层叠在原图原始像素上，并校验原图未被改动。 |
 | **B — 只有生图模型** | 一次调用、一条写全的提示词：体裁、配色、标题、装饰组都写明。Skill 会提醒：模型可能让照片轻微偏色。 |
 | **C — 没有生图能力** | 交付完整的配方和一条可以直接粘贴使用的提示词。 |
-
-<br>
-
-<h3 align="center">案例展示</h3>
-
-<p align="center"><em>六张海报，六份不同的配方——不重复同一个模板。</em></p>
-
-<p align="center">
-  <img src="examples/01-penang-airport.jpg" width="32%" alt="舷窗海报：巨型衬线标题覆在机舱壁上，透过舷窗看航站楼">
-  <img src="examples/02-penang-260.jpg" width="32%" alt="停车楼海报：粗黑标题被点缀色劈开，建筑墙上真实的号码被放大重现">
-  <img src="examples/03-travel-diary.jpg" width="32%" alt="海港海报：做旧的超大标题压在救生圈上，配撕纸旅行笔记">
-</p>
-<p align="center">
-  <img src="examples/04-shadow-play.jpg" width="32%" alt="夜间建筑海报：撕纸拼贴，邮戳、印章与手写笔记环绕一扇亮着的窗">
-  <img src="examples/05-macau-after-dark.jpg" width="32%" alt="橱窗海报：做旧烫金标题，配同图细节的胶片条与照片插图">
-  <img src="examples/06-wild-wires.jpg" width="32%" alt="冬日枝线海报：被画框裁切的字体纪念碑，白色与夕阳点缀色对劈">
-</p>
-
-<p align="center"><sub>
-  以上海报均为刻意降低分辨率、轻微柔化且不带任何元数据的预览图——原始照片不在本仓库中。<br>
-  Skill 本体内部的案例，仍然只以文字形式写成通用化的设计逻辑。
-</sub></p>
-
-<br>
 
 <h3 align="center">仓库结构</h3>
 
