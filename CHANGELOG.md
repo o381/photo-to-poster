@@ -3,7 +3,6 @@
 ## 2.1.1 — Example gallery
 
 - Added six finished posters as showcase examples under `examples/`, embedded as a gallery in both READMEs.
-- The showcase images are deliberately downscaled (720 px wide), lightly softened, and stripped of metadata — the original photographs are not included in this repository.
 
 ## 2.1.0 — Open-source edition
 
