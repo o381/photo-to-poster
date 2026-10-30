@@ -36,7 +36,7 @@
 </p>
 
 <p align="center"><sub>
-  The posters above are deliberately downscaled, lightly softened previews with no metadata — the original photographs are not part of this repository.<br>
+  Finished pieces made with this Skill — each from a single photograph, each with its own recipe.<br>
   Inside the Skill itself, every case is still described as generalised design logic, in words only.
 </sub></p>
 
@@ -107,7 +107,7 @@ photo-to-poster/
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
 ├── LICENSE                    ← MIT
-├── examples/                  ← showcase posters (downscaled previews)
+├── examples/                  ← showcase posters
 └── skills/
     └── photo-to-poster/
         └── SKILL.md           ← the Skill itself (English)
